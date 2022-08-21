@@ -1,0 +1,15 @@
+/home/nk/Documents/csharp/Dictionary/bin/Debug/net6.0/Dictionary
+/home/nk/Documents/csharp/Dictionary/bin/Debug/net6.0/Dictionary.deps.json
+/home/nk/Documents/csharp/Dictionary/bin/Debug/net6.0/Dictionary.runtimeconfig.json
+/home/nk/Documents/csharp/Dictionary/bin/Debug/net6.0/Dictionary.dll
+/home/nk/Documents/csharp/Dictionary/bin/Debug/net6.0/Dictionary.pdb
+/home/nk/Documents/csharp/Dictionary/obj/Debug/net6.0/Dictionary.csproj.AssemblyReference.cache
+/home/nk/Documents/csharp/Dictionary/obj/Debug/net6.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/csharp/Dictionary/obj/Debug/net6.0/Dictionary.AssemblyInfoInputs.cache
+/home/nk/Documents/csharp/Dictionary/obj/Debug/net6.0/Dictionary.AssemblyInfo.cs
+/home/nk/Documents/csharp/Dictionary/obj/Debug/net6.0/Dictionary.csproj.CoreCompileInputs.cache
+/home/nk/Documents/csharp/Dictionary/obj/Debug/net6.0/Dictionary.dll
+/home/nk/Documents/csharp/Dictionary/obj/Debug/net6.0/refint/Dictionary.dll
+/home/nk/Documents/csharp/Dictionary/obj/Debug/net6.0/Dictionary.pdb
+/home/nk/Documents/csharp/Dictionary/obj/Debug/net6.0/Dictionary.genruntimeconfig.cache
+/home/nk/Documents/csharp/Dictionary/obj/Debug/net6.0/ref/Dictionary.dll
