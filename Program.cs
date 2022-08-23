@@ -63,7 +63,12 @@
 // // System.Console.WriteLine("count now : {0}", d.Count);
 
 
-Console.WriteLine("what is your name ? ");
-string userName = Console.ReadLine();
-Console.WriteLine($" your name is {userName}" +" and data type is " + userName.GetType().Name);
-// Console.WriteLine(userName.GetType().Name);
+// Console.WriteLine("what is your name ? ");
+// string userName = Console.ReadLine();
+// Console.WriteLine($" your name is {userName}" +" and data type is " + userName.GetType().Name);
+// // Console.WriteLine(userName.GetType().Name);
+
+for(int x=1,y=10; x<=10; x++,y--)// comma between x & y , comma between x and y at the end
+{
+    Console.WriteLine(x,y);
+}
